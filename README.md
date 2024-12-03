@@ -2,6 +2,15 @@
 
 La librería Dialogos.JS contiene un conjunto de funciones JavaScript que reciben como parametro de entrada un objeto de tipo arma y devuelven una frase épica relacionada con ese arma.
 
+## Importación
+
+La librería se puede importar a través de los siguientes enlaces:
+
+* https://raw.githubusercontent.com/profesorfranma/dwec2425/refs/heads/main/dialogos.js
+  
+* https://profesorfranma.github.io/dwec2425/dialogos.js
+
+
 ## Funciones
 
 Las funciones disponibles en Dialogos.JS son las siguientes:
